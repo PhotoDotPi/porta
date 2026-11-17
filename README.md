@@ -4,6 +4,10 @@ Porta is a lightweight, concurrent TCP port scanner written in Elixir.
 
 It discovers accessible TCP ports on a single IPv4 host or a small IPv4 CIDR range and maps well-known ports to conventional service names.
 
+## Documentation
+
+Full API documentation is available at **https://photodotpi.github.io/porta/**.
+
 ## Features
 
 - Single IPv4 addresses and IPv4 CIDR ranges
